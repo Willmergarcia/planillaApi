@@ -1,0 +1,334 @@
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.exe
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.deps.json
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.json
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlanillaAPI.styles.css
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Kevin Palma\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.exe
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.deps.json
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.json
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.dev.json
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.Manifest.cache
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.xml
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlanillaAPI.styles.css
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\kevin\OneDrive\Escritorio\KEVIN PALMA\Proyectos\Sistema Planilla Desarrollo web\Sistema Planilla Desarrollo web\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.exe
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.deps.json
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.json
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.dev.json
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.Manifest.cache
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.xml
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlanillaAPI.styles.css
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\kevin\OneDrive\Escritorio\wilmer\PlanillaAPI\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.genruntimeconfig.cache
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.exe
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.deps.json
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.json
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.dev.json
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.AssemblyReference.cache
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfoInputs.cache
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfo.cs
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CoreCompileInputs.cache
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.Manifest.cache
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.xml
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlanillaAPI.styles.css
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CopyComplete
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\garci\Desktop\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.genruntimeconfig.cache
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.exe
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.deps.json
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.json
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.runtimeconfig.dev.json
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.AssemblyReference.cache
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfoInputs.cache
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.AssemblyInfo.cs
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CoreCompileInputs.cache
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.Manifest.cache
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlanillaAPI.StaticWebAssets.xml
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlanillaAPI.styles.css
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.csproj.CopyComplete
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.dll
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.pdb
+C:\Users\garci\Desktop\ProyectoWEB\PlanillaAPI (1)\PlanillaAPI\PlanillaAPI\obj\Debug\netcoreapp3.1\PlanillaAPI.genruntimeconfig.cache
